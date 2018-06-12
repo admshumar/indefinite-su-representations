@@ -5,4 +5,5 @@ The algorithms that locate constituents of the irreducible dual of SU(n,1) are f
 
 # References
 Kraljević, H. <i>Representations of the universal covering group of the group SU(n,1)</i>, Glasnik Mat. Ser. Ill 8 (28) (1973), 23-72.
+
 Kraljević, H., <i>On representations of the group SU(n,1)</i>, Trans. Amer. Math. Soc. 221 (1976), 433-448.
